@@ -1,4 +1,3 @@
-# React + Vite
 
 # Kütüphaneler
 - react-router-dom
